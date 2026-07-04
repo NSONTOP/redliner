@@ -6,3 +6,4 @@
 - and many more
 
 # Execute Link
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NSONTOP/redliner/refs/heads/main/redliner.lua"))()
